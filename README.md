@@ -4,6 +4,10 @@ This is my personal build and adaptation of the **ESP32 Drone** project original
 
 > **YouTube Build Guide:** [ESP32 Drone Video](https://www.youtube.com/watch?v=V_mZsiZcy7s&t=1047s)
 
+<p align="center">
+  <img src="Media/demo.gif" alt="Macropad Demo" />
+</p>
+
 
 ## 📌 About This Project
 
