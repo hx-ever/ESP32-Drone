@@ -1,4 +1,4 @@
-# ESP32 Drone
+# Arx (ESP32-Drone)
 
 This is my personal build and adaptation of the **ESP32 Drone** project originally created by Max Imagination on YouTube.
 
