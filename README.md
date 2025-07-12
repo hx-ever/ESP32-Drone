@@ -14,8 +14,6 @@ I’m documenting my progress, tweaks, and any personal modifications here.
 
 ## ⚙️ My Changes or Notes
 
-> *Add this section to explain what you did or plan to do with this fork! For example:*
-
 - Built the drone following the original guide
 - Created a unique 3D model
 - Planning to add a camera module
