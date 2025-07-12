@@ -26,3 +26,11 @@ I’m documenting my progress, tweaks, and any personal modifications here.
 ## ⚠️ Disclaimer
 
 This is not my original project. All core credit goes to **Max Imagination** for designing and sharing the ESP32 Drone.  
+
+
+## 📜 License
+
+I could not find a clear license in the original repository. As such, I am treating this as **"All Rights Reserved" by the original author**.
+
+This project exists purely for **personal learning and documentation**. I do not claim ownership of the original code or design. If you are the original author and would like this removed or modified, please contact me.
+
